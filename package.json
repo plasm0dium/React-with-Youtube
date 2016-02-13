@@ -1,7 +1,7 @@
 {
-  "name": "react-with-redux",
+  "name": "react-with-ES6",
   "version": "1.0.0",
-  "description": "A simple application using React with Redux, Babel support and Webpack",
+  "description": "A simple application using React with ES6, Babel support and Webpack",
   "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
